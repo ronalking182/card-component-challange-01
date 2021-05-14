@@ -83,6 +83,6 @@ I learnt how to :
 ## Author
 
 - Frontend Mentor - (https://www.frontendmentor.io/profile/ronalking182)
-- Twitter - [@ykingdavidabu](https://www.twitter.com/kingdavidabu)
+- Twitter - [@kingdavidabu](https://www.twitter.com/kingdavidabu)
 
 
