@@ -77,11 +77,12 @@ I learnt how to :
 
 ### Useful resources
 
-- [ resource 1](https://www.w3schools.com/cssref/css3_pr_filter.asp) - This helped me  to be able to use filter to edite my picture . I really liked this pattern and will use it going forward.
+- resource 1: (https://www.w3schools.com/cssref/css3_pr_filter.asp) 
+- This helped me  to be able to use filter to edite my picture . I really liked this pattern and will use it going forward.
 
 ## Author
 
 - Frontend Mentor - (https://www.frontendmentor.io/profile/ronalking182)
-- Twitter - [@yourusername](https://www.twitter.com/kingdavidabu)
+- Twitter - [@ykingdavidabu](https://www.twitter.com/kingdavidabu)
 
 
